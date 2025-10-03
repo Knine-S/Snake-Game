@@ -1,1 +1,1 @@
-Snake Game in Python!
+Simple Snake Game in Python. Made cause of boredom
